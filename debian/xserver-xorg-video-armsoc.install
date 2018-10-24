@@ -1,2 +1,2 @@
-usr/lib/arm-linux-gnueabihf/xorg/modules/drivers/armsoc_drv.so
+usr/lib/aarch64-linux-gnu/xorg/modules/drivers/armsoc_drv.so
 usr/share/man/man4/armsoc.4
